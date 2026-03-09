@@ -1,6 +1,6 @@
 # Classificador CIFAR-10 com PyTorch
 
-Um projeto de classificação de imagens usando redes neurais convolucionais (CNN) para classificar imagens do dataset CIFAR-10 em 10 categorias.
+Um projeto de classificação de imagens usando redes neurais convolucionais (CNN) para classificar imagens do dataset CIFAR-10 em 10 categorias. Implementado para fins educacionais enquanto estou estudando o assunto.
 
 ## 🎯 Objetivo
 
